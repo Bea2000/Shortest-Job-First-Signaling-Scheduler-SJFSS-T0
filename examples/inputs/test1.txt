@@ -1,0 +1,2 @@
+1
+PROCESS1 0 3 2 ./testsT0/bin/child 1 child 

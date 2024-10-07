@@ -1,0 +1,4 @@
+3
+PROCESS1 5 2 4 ./testsT0/bin/childfaulter 1 childfaulter 
+PROCESS2 3 4 5 ./testsT0/bin/child 1 child 
+PROCESS3 0 2 2 ./testsT0/bin/childtime 4 childtime 5 SSOO 31
